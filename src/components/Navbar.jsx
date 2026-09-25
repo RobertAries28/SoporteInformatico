@@ -47,7 +47,7 @@ const Navbar = () => {
               </Link>
             ))}
             <a
-              href="tel:+51959618226"
+              href="tel:+51917724327"
               className="ml-4 bg-accent hover:bg-accent-dark text-white px-6 py-2 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105"
             >
               Llamar Ahora
@@ -81,7 +81,7 @@ const Navbar = () => {
               </Link>
             ))}
             <a
-              href="tel:+51959618226"
+              href="tel:+51917724327"
               className="block mt-3 bg-accent text-white text-center px-4 py-3 rounded-lg font-semibold hover:bg-accent-dark transition-colors"
             >
               Llamar Ahora

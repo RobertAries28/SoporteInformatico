@@ -48,15 +48,15 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contacto</h4>
             <div className="space-y-3">
-              <a href="tel:+51959618226" className="flex items-center space-x-2 text-gray-400 hover:text-accent transition-colors">
+              <a href="tel:+51917724327" className="flex items-center space-x-2 text-gray-400 hover:text-accent transition-colors">
                 <FaPhone className="text-accent" />
-                <span>+51 999 999 999</span>
+                <span>+51 917 724 327</span>
               </a>
               <a href="mailto:soporte@techassist247.com" className="flex items-center space-x-2 text-gray-400 hover:text-accent transition-colors">
                 <FaEnvelope className="text-accent" />
                 <span>soporte@techassist247.com</span>
               </a>
-              <a href="https://wa.me/51959618226" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 text-gray-400 hover:text-accent transition-colors">
+              <a href="https://wa.me/51917724327" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 text-gray-400 hover:text-accent transition-colors">
                 <FaWhatsapp className="text-accent" />
                 <span>WhatsApp</span>
               </a>

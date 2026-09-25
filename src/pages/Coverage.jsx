@@ -184,11 +184,11 @@ const Coverage = () => {
             Contáctanos igual. Evaluamos cada caso y buscamos la mejor solución para ti.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+51959618226" className="bg-accent hover:bg-accent-dark text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
+            <a href="tel:+51917724327" className="bg-accent hover:bg-accent-dark text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
               <FaPhone className="mr-2" />
-              Llamar: +51 999 999 999
+              Llamar: +51 917 724 327
             </a>
-            <a href="https://wa.me/51959618226" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105">
+            <a href="https://wa.me/51917724327" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105">
               Consultar por WhatsApp
             </a>
           </div>

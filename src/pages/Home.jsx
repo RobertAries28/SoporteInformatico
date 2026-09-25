@@ -78,7 +78,7 @@ const Home = () => {
                 <Link to="/contacto" className="btn-accent text-center">
                   Solicitar Soporte Ahora
                 </Link>
-                <a href="https://wa.me/51959618226" target="_blank" rel="noopener noreferrer" className="btn-outline bg-green-500 text-white border-green-500 hover:bg-green-600 text-center">
+                <a href="https://wa.me/51917724327" target="_blank" rel="noopener noreferrer" className="btn-outline bg-green-500 text-white border-green-500 hover:bg-green-600 text-center">
                   <FaWhatsapp className="inline mr-2" />
                   WhatsApp
                 </a>
@@ -158,11 +158,11 @@ const Home = () => {
             Nuestro equipo está disponible las 24 horas para asistirte
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://wa.me/51959618226" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">
+            <a href="https://wa.me/51917724327" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">
               <FaWhatsapp className="inline mr-2 text-2xl" />
               WhatsApp Directo
             </a>
-            <a href="tel:+51959618226" className="bg-white hover:bg-gray-100 text-accent px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">
+            <a href="tel:+51917724327" className="bg-white hover:bg-gray-100 text-accent px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">
               <FaPhone className="inline mr-2" />
               Llamar Ahora
             </a>

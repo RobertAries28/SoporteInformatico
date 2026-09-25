@@ -53,14 +53,14 @@ const Contact = () => {
       icon: <FaPhone className="text-3xl" />,
       title: 'Teléfono',
       value: 'Llamar ahora',
-      link: 'tel:+51959618226',
+      link: 'tel:+51917724327',
       color: 'bg-blue-500'
     },
     {
       icon: <FaWhatsapp className="text-3xl" />,
       title: 'WhatsApp',
       value: 'Enviar mensaje',
-      link: 'https://wa.me/51959618226',
+      link: 'https://wa.me/51917724327',
       color: 'bg-green-500'
     },
     {
