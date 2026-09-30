@@ -77,7 +77,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400 text-sm">
           <p>&copy; {new Date().getFullYear()} TechAssist 24/7. Todos los derechos reservados.</p>
-          <p className="mt-2">Desarrollado con ❤️ por Daniel Escalante</p>
+          <p className="mt-2">Desarrollado con ❤️ por Robert Escalante Gomez</p>
         </div>
       </div>
     </footer>
